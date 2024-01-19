@@ -1,1 +1,5 @@
 print("This is python homework")
+print("this is the first extra line")
+print("this is the second extra line")
+print("this is the third extra line")
+print("this is the fourth extra line")
