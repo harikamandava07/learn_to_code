@@ -1,0 +1,5 @@
+print("hello world")
+print("today is friday")
+print("today's date is 1/26")
+print("Its 5:30pm")
+print("this is the last line")
